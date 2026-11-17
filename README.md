@@ -181,8 +181,7 @@ print(predecir(modelo, casos))   # prob_llega (vacía en SVM, que no entrega pro
 │   └── external/             <- (vacía, no se usaron datos externos)
 ├── docs/
 │   ├── descripcion_dataset_y_origen.md
-│   ├── diccionario_datos.md  <- las 46 variables originales y las construidas
-│   └── guion_video.md        <- guion del video
+│   └── diccionario_datos.md  <- las 46 variables originales y las construidas
 ├── models/                   <- modelo_final.joblib y modelo_2026_ilustrativo.joblib
 ├── notebooks/
 │   ├── 1.0-trg-carga-y-exploracion-de-datos.ipynb
@@ -212,6 +211,6 @@ El notebook `2.0` tarda alrededor de 2 minutos y regenera `reports/` y `models/`
 
 ## 8. Video
 
-El video de presentación (aproximadamente 7 minutos, con subtítulos) estaría en el enlace de `video/video.md`. El guion está en `docs/guion_video.md`.
+El video de presentación (con subtítulos) estaría en el enlace de `video/video.md`.
 
-**Enlace:** VIDEO_URL_PENDIENTE
+**Enlace:** https://youtu.be/3yBZDt3fh5I
