@@ -1,5 +1,5 @@
-# Video de presentación
+# Video de presentacion
 
-**Enlace (YouTube, no listado, con subtítulos):** VIDEO_URL_PENDIENTE
+Enlace (YouTube, no listado, con subtitulos): https://youtu.be/3yBZDt3fh5I
 
-Duración aproximada: 7 minutos. El guion está en `docs/guion_video.md`. El archivo de video no se guarda en el repositorio.
+El archivo de video no se guarda en el repositorio.
